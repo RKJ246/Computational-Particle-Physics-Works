@@ -1,2 +1,2 @@
 # Computational-Particle-Physics-Works
-This repository has computational exercises carried out at IITH in the Particle Physics Domains.
+This repository has computational and theoretical exercies carried out at IIT Hyderabad and Azim Premji University in the Particle Physics Domains.
